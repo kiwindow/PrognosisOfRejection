@@ -3,7 +3,7 @@ Clinical data used and computational processes in the article concerning the ana
 
 This respository has 6 files, 1 folder and this README file. 
 
-1) renaldata.xsx
+1) renaldata.xlsx
     This is the raw clinical data. There are 211 rows of explanatory variables and 1 row of target variable at the last column.
     The sample size is 51.
     
