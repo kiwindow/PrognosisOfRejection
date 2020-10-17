@@ -22,8 +22,11 @@ https://htmlpreview.github.io/?https://github.com/kiwindow/PrognosisOfRejection/
 
 ・The folder DataModelerModelSets contains all the predictive models generated with DataModeler®. To retrieve these models and execute calculations with them, follow the commands in the Sparse modelling section in the AnalysisOfPredictor.nb file. To perform these computations, Mathematica® or Wolfram Language® and DataModeler® are needed. The former program can be obtained from Wolfram Research®, https://www.wolfram.com/index.html. The latter one can be obtained from Evolved Analytics®, http://www.evolved-analytics.com/. 
   To retrieve models in the DataModelerModelSets, this folder and a Mathematica® notebook must be saved in the same directory. Then after importing DataModeler® into the Mathematica® kernel on a Mathematica® notebook by evaluating the following command,
+  
 		Needs[“DataModeler`”]
+		
 evaluate the following code to import models as an expression of ARModels.
+
       ARModels = RetrieveModelSets[ ProjectName -> “PredicGraftLoss” ];
 
 
