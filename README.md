@@ -9,6 +9,7 @@ This repository has ten files and one folder with this README file.
 ・The files formatted in CSV and PDF are readable in the GitHub. 
 To see them, just click their file names. 
   The PDF files can be downloaded. After clicking on the file name, another page appears and click the download button. Although a large PDF file might not be shown on GitHub properly, it can be downloaded to see it.
+  
 ・The file with an extension of .xlsx or .nb is not shown in the GitHub. 
 To see Excel® file, click on the file name to go to its own page and download it. 
   The file with the nb extension was created with Mathematica®. To see it, click on its file name to go to its own page and download it, first. Then a software, Mathematica®, Wolfram Desktop® or Wolfram Player® is needed to open it. Among them, Wolfram Player® is free. You can download it from  https://www.wolfram.com/player/ . Other software can be obtained from their developer, Wolfram Research®. Its URL is https://www.wolfram.com/index.html
